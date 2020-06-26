@@ -1,0 +1,12 @@
+.text-small {
+    font-size: smaller;
+}
+
+.write-bg {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.z-1035 {
+    z-index: 2000;
+    position: relative;
+}
